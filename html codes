@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+   
+    <title>emc</title>
+</head>
+<body bgcolor="grey"color:="black">
+    <center>
+    <h1>ERROR MAKES CLEVER ACADEMY💨</h1>
+    <h5>TRAINING TECHNEWS FRESHER GUIDE</h5>
+    <P>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, officiis.
+
+    </P>
+    <hr>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=saAD88PsAA3aAIs1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita enim, quos aliquam quod perferendis, libero obcaecati reprehenderit ipsum consectetur delectus mollitia pariatur adipisci deleniti? Cumque vero dicta vel in pariatur cupiditate commodi blanditiis non, libero reprehenderit totam, quisquam, molestiae accusantium!
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Non a nobis eaque sunt, vitae, dolor voluptate consequuntur vel, eveniet culpa error. Libero dolores consequatur, in at optio hic delectus corrupti..
+    </p>
+    </center>
+    <h2>
+LETS DIVIDE FULLSTACK INTO 3 PARTS
+    </h2>
+    <ul>
+        <li>Front End</li>
+        <li>Backend
+        </li>
+        <li>
+            Database
+        </li>
+    </ul>
+
+    <h2>
+        TECHONOLOGIES USED IN WEBDEVELOPMENT
+    </h2>
+    <table border="1">
+        <tr>
+            <td>Frontend</td>  <td>Backend</td>  <td>Database</td>
+        </tr>
+        <tr>
+            
+            <td>HTML</td> <td>java</td> <td>mongo DB</td>
+            
+        </tr>
+        <tr>
+            <td>CSS</td> <td>PYTHON</td> <td>MYSQL</td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT</td> <td>Node JAVASCRIPT</td> <td>AWS</td>
+        </tr>
+    </table>
+    <hr>
+<center>
+    <p>
+
+        <a href="register.html"> REGISTER FOR COURSE</a><br>
+        <a href="https://www.linkedin.com/in/sivasubramanian-a-443519225/">
+            INSTAGRAM</a>
+            <a href="https://www.youtube.com/@codeio">
+                YOUTUBE
+            </a>
+            
+    </p>
+</center>
+
+</body>
+</html>
