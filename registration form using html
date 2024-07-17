@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+    
+    <title>REGISTERATION FORM</title>
+</head>
+<body>
+    <h1>ERROR MAKES CLEVER ACADEMY💨</h1>
+    <h5>TRAINING TECHNEWS FRESHER GUIDE</h5>
+    <P>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, officiis.
+
+    </P>
+    <hr>
+    <center>
+        <h1>REGISTRATION FORM</h1>
+        <form>
+    <table>
+        <tr>
+            <td>NAME:</td><td><input type="text" placeholder="Enter the name"></td>
+        </tr>
+        <tr>
+            <td>AGE:</td><td><input type="number" placeholder="Enter the number"></td>
+        </tr>
+        <tr>
+            <td>GENDER:</td>
+            <td>
+            <input type="radio" name="GENDER">MALE
+            <input type="radio"name="GENDER">FEMALE
+            </td>
+        </tr>
+        <tr>
+            <td>Email:</td><td><input type="email" placeholder="Enter the email"></td>
+        </tr>
+        <tr>
+            <td>SELECT COURSE:</td>
+            <td>
+            <select>
+                <option>FULLSTACKDEVELOPER</option>
+                <option>WEBDEVELOPER</option>
+                <option>BackendDEVELOPER</option>
+            </select>
+            </td>
+        </tr>
+        <tr>
+        <td> UPLOAD YOUR RESUME</td>
+        <td>
+            <input type="file">
+        </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit">
+            
+            </td>
+        </tr>
+    <tr>
+        <td><input type="reset"</td>
+    </tr>
+    </table>
+        </form>
+    </center>
+    <hr>
+    <p>
+<center>
+        <a href="index.html"> home</a><br>
+        <a href="https://www.linkedin.com/in/sivasubramanian-a-443519225/">
+            INSTAGRAM</a>
+            <a href="https://www.youtube.com/@codeio">
+                YOUTUBE
+            </a>
+            
+    </p>
+</center>
+</body>
+</body>
+</body>
+</html>
